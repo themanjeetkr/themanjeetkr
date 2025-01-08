@@ -1,37 +1,40 @@
+  # Hi, I'm Manjeet Kumar 👋
 
+Welcome to my GitHub profile! I'm a passionate **Frontend Developer** with a knack for creating responsive and user-friendly web applications. Currently pursuing my **B.Tech in Computer Science** from **Brainware University**, I'm eager to leverage my skills in real-world projects and grow as a developer.
 
-[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)]
-<h1 align="center">Hi 👋, I'm Manjeet Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+## 🛠 Tech Skills
+- **Languages:** C/C++, Python, SQL
+- **Frontend:** HTML, CSS, JavaScript
+- **CMS & Tools:** WordPress, Git
+- **Other:** Video Editing (Promotional Videos)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=themanjeetkr&label=Profile%20views&color=0e75b6&style=flat" alt="themanjeetkr" /> </p>
+## 🌟 Projects
+- **Ecommerce Site**: A fully functional online store with seamless user experience.
+- **Amazon Clone**: A replica of the popular e-commerce platform with key features.
+- **Portfolio Website**: Showcasing my skills and projects.
+- **GYM Website**: Built using WordPress to help a local gym boost its online presence.
+- **Property Management Site for Leoland**: Created a responsive WordPress site that highlights services like property management and rental solutions.
 
-<p align="left"> <a href="https://twitter.com/themanjeetkr007" target="blank"><img src="https://img.shields.io/twitter/follow/themanjeetkr007?logo=twitter&style=for-the-badge" alt="themanjeetkr007" /></a> </p>
+## 📈 Experience
+- **Frontend Developer (1 Year)**: Experience in building dynamic and responsive web applications.
+- **Intern at Leoland**: Contributed to property management solutions, created and maintained the company website, and produced promotional videos to enhance marketing.
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+## 🖯 Goals
+- Continuously improve my skills and contribute to open-source projects.
+- Expand my knowledge in advanced frontend frameworks and backend technologies.
 
-- 🌱 I’m currently learning **DSA**
+## 📧 Connect with Me
+- **LinkedIn**: [Manjeet Kumar](https://www.linkedin.com/in/manjeet-kumar-9a2929314/)
+- **GitHub**: [themanjeetkr](https://github.com/themanjeetkr)
+- **Email**: themanjeetkr@gmail.com
+- **Contact**: +91 7463848919
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-manjeetkr.vercel.app/](https://my-portfolio-manjeetkr.vercel.app/)
+## 🌐 Additional Links
+- **Internshala**: [Resume](https://internshala.com/student/resume?detail_source=resume_direct)
 
-- 📫 How to reach me **themanjeetkr@gmail.com**
+### Fun Fact: I love playing cricket and designing in my free time! 🏏🎨
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/manjeet-kumar-9a2929314/](https://www.linkedin.com/in/manjeet-kumar-9a2929314/)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/themanjeetkr007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="themanjeetkr007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manjeet-kumar-9a2929314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manjeet-kumar-9a2929314" height="30" width="40" /></a>
-<a href="https://instagram.com/themanjeetkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themanjeetkr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/manjeet kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manjeet kumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manjeet kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manjeet kumar" height="30" width="40" /></a>
-</p>
+"Strive not to be a success, but rather to be of value." - *Albert Einstein*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themanjeetkr&show_icons=true&locale=en&layout=compact" alt="themanjeetkr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themanjeetkr&show_icons=true&locale=en" alt="themanjeetkr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themanjeetkr&" alt="themanjeetkr" /></p>
