@@ -1,5 +1,5 @@
 # 💫 About Me:
-A React-based e-commerce site and solving DSA problems regularly.<br>Open-source React/JavaScript projects or beginner-friendly AI projects.<br>Improving my backend skills with Node.js and Express.<br>TypeScript, Next.js, and system design concepts<br>Frontend development, Git/GitHub, React, or how to get started with web dev.<br>I can spend hours debugging and still love coding more afterward!<br>
+🛠️A React-based e-commerce site and solving DSA problems regularly.<br>🤝Open-source React/JavaScript projects or beginner-friendly AI projects.<br>🙋‍♂️ Improving my backend skills with Node.js and Express.<br>TypeScript, Next.js, and system design concepts<br>💬Frontend development, Git/GitHub, React, or how to get started with web dev.<br>⚡ I can spend hours debugging and still love coding more afterward!<br>
 
 
 ## 🌐 Socials:
