@@ -16,6 +16,12 @@
 
 ---
 
+## 🏅 Holopin Badges
+
+[![An image of @themanjeetkr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/themanjeetkr)](https://holopin.io/@themanjeetkr)
+
+---
+
 ## 💻 Tech Stack:
 
 > _Languages & Frontend:_
@@ -66,18 +72,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=themanjeetkr&theme=radical&hide_border=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=themanjeetkr&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=themanjeetkr&theme=radical&layout=compact)
-
----
-
-## 🏅 Holopin Badges
-
-[![An image of @themanjeetkr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/themanjeetkr)](https://holopin.io/@themanjeetkr)
-
----
-
-## 🔥 Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=themanjeetkr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
