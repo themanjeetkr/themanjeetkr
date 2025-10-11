@@ -7,6 +7,11 @@
 - ⚡ I can spend hours debugging — and love coding even more afterward!
 
 ---
+## 🏅 Holopin Badges
+
+[![An image of @themanjeetkr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/themanjeetkr)](https://holopin.io/@themanjeetkr)
+
+---
 
 ## 🌐 Connect With Me:
 
@@ -16,11 +21,7 @@
 
 ---
 
-## 🏅 Holopin Badges
 
-[![An image of @themanjeetkr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/themanjeetkr)](https://holopin.io/@themanjeetkr)
-
----
 
 ## 💻 Tech Stack:
 
