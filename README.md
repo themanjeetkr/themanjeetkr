@@ -1,10 +1,4 @@
-# 💫 About Me:
-- 🛠️ Currently building a **React-based e-commerce site** and solving **DSA problems** regularly.  
-- 🤝 Interested in contributing to **open-source React/JavaScript projects** or **beginner-friendly AI projects**.  
-- 🚀 Improving my backend skills with **Node.js, Express**, and exploring **system design**.  
-- 🔍 Learning **TypeScript** and diving into **Next.js** for full-stack projects.  
-- 💬 Happy to help with **frontend development, Git/GitHub**, React, or getting started in web dev.  
-- ⚡ I can spend hours debugging — and love coding even more afterward!
+
 
 ---
 ## 🏅 Holopin Badges
