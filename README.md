@@ -1,4 +1,4 @@
-
+Full-Stack Developer and Computer Science student passionate about building scalable web applications and solving real-world problems.
 
 ---
 ## 🏅 Holopin Badges
