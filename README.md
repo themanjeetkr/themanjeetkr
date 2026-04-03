@@ -91,8 +91,7 @@ const manjeet = {
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=themanjeetkr&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="60%" />
-
+<!-- <img src="https://nirzak-streak-stats.vercel.app/?user=themanjeetkr&theme=tokyonight&hide_border=true" width="60%" /> -->
 </div>
 
 ---
